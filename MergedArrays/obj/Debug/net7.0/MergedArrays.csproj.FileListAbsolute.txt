@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C# Projects\MergedArrays\obj\Debug\net7.0\MergedArrays.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C# Projects\MergedArrays\obj\Debug\net7.0\MergedArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C# Projects\MergedArrays\obj\Debug\net7.0\MergedArrays.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C# Projects\MergedArrays\obj\Debug\net7.0\MergedArrays.AssemblyInfo.cs
+C:\Users\user\Desktop\C# Projects\MergedArrays\obj\Debug\net7.0\MergedArrays.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Projects\MergedArrays\bin\Debug\net7.0\MergedArrays.exe
+C:\Users\user\Desktop\C# Projects\MergedArrays\bin\Debug\net7.0\MergedArrays.deps.json
+C:\Users\user\Desktop\C# Projects\MergedArrays\bin\Debug\net7.0\MergedArrays.runtimeconfig.json
+C:\Users\user\Desktop\C# Projects\MergedArrays\bin\Debug\net7.0\MergedArrays.dll
+C:\Users\user\Desktop\C# Projects\MergedArrays\bin\Debug\net7.0\MergedArrays.pdb
+C:\Users\user\Desktop\C# Projects\MergedArrays\obj\Debug\net7.0\MergedArrays.dll
+C:\Users\user\Desktop\C# Projects\MergedArrays\obj\Debug\net7.0\refint\MergedArrays.dll
+C:\Users\user\Desktop\C# Projects\MergedArrays\obj\Debug\net7.0\MergedArrays.pdb
+C:\Users\user\Desktop\C# Projects\MergedArrays\obj\Debug\net7.0\MergedArrays.genruntimeconfig.cache
+C:\Users\user\Desktop\C# Projects\MergedArrays\obj\Debug\net7.0\ref\MergedArrays.dll

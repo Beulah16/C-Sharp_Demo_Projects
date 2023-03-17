@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C# Projects\MultiDimensional\bin\Debug\net7.0\MultiDimensional.exe
+C:\Users\user\Desktop\C# Projects\MultiDimensional\bin\Debug\net7.0\MultiDimensional.deps.json
+C:\Users\user\Desktop\C# Projects\MultiDimensional\bin\Debug\net7.0\MultiDimensional.runtimeconfig.json
+C:\Users\user\Desktop\C# Projects\MultiDimensional\bin\Debug\net7.0\MultiDimensional.dll
+C:\Users\user\Desktop\C# Projects\MultiDimensional\bin\Debug\net7.0\MultiDimensional.pdb
+C:\Users\user\Desktop\C# Projects\MultiDimensional\obj\Debug\net7.0\MultiDimensional.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C# Projects\MultiDimensional\obj\Debug\net7.0\MultiDimensional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C# Projects\MultiDimensional\obj\Debug\net7.0\MultiDimensional.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C# Projects\MultiDimensional\obj\Debug\net7.0\MultiDimensional.AssemblyInfo.cs
+C:\Users\user\Desktop\C# Projects\MultiDimensional\obj\Debug\net7.0\MultiDimensional.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Projects\MultiDimensional\obj\Debug\net7.0\MultiDimensional.dll
+C:\Users\user\Desktop\C# Projects\MultiDimensional\obj\Debug\net7.0\refint\MultiDimensional.dll
+C:\Users\user\Desktop\C# Projects\MultiDimensional\obj\Debug\net7.0\MultiDimensional.pdb
+C:\Users\user\Desktop\C# Projects\MultiDimensional\obj\Debug\net7.0\MultiDimensional.genruntimeconfig.cache
+C:\Users\user\Desktop\C# Projects\MultiDimensional\obj\Debug\net7.0\ref\MultiDimensional.dll
