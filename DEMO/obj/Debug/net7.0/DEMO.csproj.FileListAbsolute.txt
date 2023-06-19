@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Code Projects\C-Sharp_Demo_Projects\DEMO\bin\Debug\net7.0\DEMO.exe
+C:\Users\user\Desktop\Code Projects\C-Sharp_Demo_Projects\DEMO\bin\Debug\net7.0\DEMO.deps.json
+C:\Users\user\Desktop\Code Projects\C-Sharp_Demo_Projects\DEMO\bin\Debug\net7.0\DEMO.runtimeconfig.json
+C:\Users\user\Desktop\Code Projects\C-Sharp_Demo_Projects\DEMO\bin\Debug\net7.0\DEMO.dll
+C:\Users\user\Desktop\Code Projects\C-Sharp_Demo_Projects\DEMO\bin\Debug\net7.0\DEMO.pdb
+C:\Users\user\Desktop\Code Projects\C-Sharp_Demo_Projects\DEMO\obj\Debug\net7.0\DEMO.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Demo_Projects\DEMO\obj\Debug\net7.0\DEMO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Code Projects\C-Sharp_Demo_Projects\DEMO\obj\Debug\net7.0\DEMO.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Demo_Projects\DEMO\obj\Debug\net7.0\DEMO.AssemblyInfo.cs
+C:\Users\user\Desktop\Code Projects\C-Sharp_Demo_Projects\DEMO\obj\Debug\net7.0\DEMO.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Demo_Projects\DEMO\obj\Debug\net7.0\DEMO.dll
+C:\Users\user\Desktop\Code Projects\C-Sharp_Demo_Projects\DEMO\obj\Debug\net7.0\refint\DEMO.dll
+C:\Users\user\Desktop\Code Projects\C-Sharp_Demo_Projects\DEMO\obj\Debug\net7.0\DEMO.pdb
+C:\Users\user\Desktop\Code Projects\C-Sharp_Demo_Projects\DEMO\obj\Debug\net7.0\DEMO.genruntimeconfig.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Demo_Projects\DEMO\obj\Debug\net7.0\ref\DEMO.dll

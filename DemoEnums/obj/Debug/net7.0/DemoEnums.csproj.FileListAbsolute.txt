@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Code Projects\C-Sharp_Demo_Projects\DemoEnums\obj\Debug\net7.0\DemoEnums.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Demo_Projects\DemoEnums\obj\Debug\net7.0\DemoEnums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Code Projects\C-Sharp_Demo_Projects\DemoEnums\obj\Debug\net7.0\DemoEnums.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Demo_Projects\DemoEnums\obj\Debug\net7.0\DemoEnums.AssemblyInfo.cs
+C:\Users\user\Desktop\Code Projects\C-Sharp_Demo_Projects\DemoEnums\obj\Debug\net7.0\DemoEnums.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Demo_Projects\DemoEnums\bin\Debug\net7.0\DemoEnums.exe
+C:\Users\user\Desktop\Code Projects\C-Sharp_Demo_Projects\DemoEnums\bin\Debug\net7.0\DemoEnums.deps.json
+C:\Users\user\Desktop\Code Projects\C-Sharp_Demo_Projects\DemoEnums\bin\Debug\net7.0\DemoEnums.runtimeconfig.json
+C:\Users\user\Desktop\Code Projects\C-Sharp_Demo_Projects\DemoEnums\bin\Debug\net7.0\DemoEnums.dll
+C:\Users\user\Desktop\Code Projects\C-Sharp_Demo_Projects\DemoEnums\bin\Debug\net7.0\DemoEnums.pdb
+C:\Users\user\Desktop\Code Projects\C-Sharp_Demo_Projects\DemoEnums\obj\Debug\net7.0\DemoEnums.dll
+C:\Users\user\Desktop\Code Projects\C-Sharp_Demo_Projects\DemoEnums\obj\Debug\net7.0\refint\DemoEnums.dll
+C:\Users\user\Desktop\Code Projects\C-Sharp_Demo_Projects\DemoEnums\obj\Debug\net7.0\DemoEnums.pdb
+C:\Users\user\Desktop\Code Projects\C-Sharp_Demo_Projects\DemoEnums\obj\Debug\net7.0\DemoEnums.genruntimeconfig.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Demo_Projects\DemoEnums\obj\Debug\net7.0\ref\DemoEnums.dll

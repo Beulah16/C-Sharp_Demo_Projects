@@ -33,15 +33,18 @@ namespace ClassesI
                 customer.Deposit(money);
                 Console.WriteLine($"Acct Balance = {customer.GetBalance()}");
                 break;
+
                 case 2:
                 Console.Write("Amount = ");
                 double money = Convert.ToDouble(Console.ReadLine());
                 customer.Withdraw(money);
                 Console.WriteLine($"Acct Balance = {customer.GetBalance()}");
                 break;
+
                 case 3:
                 Console.WriteLine("Thank you for banking with us");
                 break;
+                
                 case default:
                 Console.WriteLine("Inavlid Option");
                 break;

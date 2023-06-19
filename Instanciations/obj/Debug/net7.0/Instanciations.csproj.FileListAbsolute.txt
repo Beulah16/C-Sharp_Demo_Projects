@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Code Projects\C-Sharp_Demo_Projects\Instanciations\obj\Debug\net7.0\Instanciations.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Demo_Projects\Instanciations\obj\Debug\net7.0\Instanciations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Code Projects\C-Sharp_Demo_Projects\Instanciations\obj\Debug\net7.0\Instanciations.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Demo_Projects\Instanciations\obj\Debug\net7.0\Instanciations.AssemblyInfo.cs
+C:\Users\user\Desktop\Code Projects\C-Sharp_Demo_Projects\Instanciations\obj\Debug\net7.0\Instanciations.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Demo_Projects\Instanciations\bin\Debug\net7.0\Instanciations.exe
+C:\Users\user\Desktop\Code Projects\C-Sharp_Demo_Projects\Instanciations\bin\Debug\net7.0\Instanciations.deps.json
+C:\Users\user\Desktop\Code Projects\C-Sharp_Demo_Projects\Instanciations\bin\Debug\net7.0\Instanciations.runtimeconfig.json
+C:\Users\user\Desktop\Code Projects\C-Sharp_Demo_Projects\Instanciations\bin\Debug\net7.0\Instanciations.dll
+C:\Users\user\Desktop\Code Projects\C-Sharp_Demo_Projects\Instanciations\bin\Debug\net7.0\Instanciations.pdb
+C:\Users\user\Desktop\Code Projects\C-Sharp_Demo_Projects\Instanciations\obj\Debug\net7.0\Instanciations.dll
+C:\Users\user\Desktop\Code Projects\C-Sharp_Demo_Projects\Instanciations\obj\Debug\net7.0\refint\Instanciations.dll
+C:\Users\user\Desktop\Code Projects\C-Sharp_Demo_Projects\Instanciations\obj\Debug\net7.0\Instanciations.pdb
+C:\Users\user\Desktop\Code Projects\C-Sharp_Demo_Projects\Instanciations\obj\Debug\net7.0\Instanciations.genruntimeconfig.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Demo_Projects\Instanciations\obj\Debug\net7.0\ref\Instanciations.dll

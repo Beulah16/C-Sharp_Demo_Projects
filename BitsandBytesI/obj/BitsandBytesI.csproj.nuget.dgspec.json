@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\C# Projects\\BitsandBytesI\\BitsandBytesI.csproj": {}
+    "C:\\Users\\user\\Desktop\\Code Projects\\C-Sharp_Demo_Projects\\BitsandBytesI\\BitsandBytesI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\C# Projects\\BitsandBytesI\\BitsandBytesI.csproj": {
+    "C:\\Users\\user\\Desktop\\Code Projects\\C-Sharp_Demo_Projects\\BitsandBytesI\\BitsandBytesI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\C# Projects\\BitsandBytesI\\BitsandBytesI.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\Code Projects\\C-Sharp_Demo_Projects\\BitsandBytesI\\BitsandBytesI.csproj",
         "projectName": "BitsandBytesI",
-        "projectPath": "C:\\Users\\user\\Desktop\\C# Projects\\BitsandBytesI\\BitsandBytesI.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\Code Projects\\C-Sharp_Demo_Projects\\BitsandBytesI\\BitsandBytesI.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\C# Projects\\BitsandBytesI\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\Code Projects\\C-Sharp_Demo_Projects\\BitsandBytesI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -53,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
