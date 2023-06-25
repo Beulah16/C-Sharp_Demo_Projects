@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Code Projects\C-Sharp_Demo_Projects\FbLikesWithTime\bin\Debug\net7.0\FbLikesWithTime.exe
+C:\Users\user\Desktop\Code Projects\C-Sharp_Demo_Projects\FbLikesWithTime\bin\Debug\net7.0\FbLikesWithTime.deps.json
+C:\Users\user\Desktop\Code Projects\C-Sharp_Demo_Projects\FbLikesWithTime\bin\Debug\net7.0\FbLikesWithTime.runtimeconfig.json
+C:\Users\user\Desktop\Code Projects\C-Sharp_Demo_Projects\FbLikesWithTime\bin\Debug\net7.0\FbLikesWithTime.dll
+C:\Users\user\Desktop\Code Projects\C-Sharp_Demo_Projects\FbLikesWithTime\bin\Debug\net7.0\FbLikesWithTime.pdb
+C:\Users\user\Desktop\Code Projects\C-Sharp_Demo_Projects\FbLikesWithTime\obj\Debug\net7.0\FbLikesWithTime.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Demo_Projects\FbLikesWithTime\obj\Debug\net7.0\FbLikesWithTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Code Projects\C-Sharp_Demo_Projects\FbLikesWithTime\obj\Debug\net7.0\FbLikesWithTime.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Demo_Projects\FbLikesWithTime\obj\Debug\net7.0\FbLikesWithTime.AssemblyInfo.cs
+C:\Users\user\Desktop\Code Projects\C-Sharp_Demo_Projects\FbLikesWithTime\obj\Debug\net7.0\FbLikesWithTime.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Demo_Projects\FbLikesWithTime\obj\Debug\net7.0\FbLikesWithTime.dll
+C:\Users\user\Desktop\Code Projects\C-Sharp_Demo_Projects\FbLikesWithTime\obj\Debug\net7.0\refint\FbLikesWithTime.dll
+C:\Users\user\Desktop\Code Projects\C-Sharp_Demo_Projects\FbLikesWithTime\obj\Debug\net7.0\FbLikesWithTime.pdb
+C:\Users\user\Desktop\Code Projects\C-Sharp_Demo_Projects\FbLikesWithTime\obj\Debug\net7.0\FbLikesWithTime.genruntimeconfig.cache
+C:\Users\user\Desktop\Code Projects\C-Sharp_Demo_Projects\FbLikesWithTime\obj\Debug\net7.0\ref\FbLikesWithTime.dll
